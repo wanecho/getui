@@ -1,5 +1,5 @@
 {
-  "name": "itxiao6/getui",
+  "name": "wanecho/getui",
   "description": "UniAPP个推SDK",
   "keywords": [
     "Uniapp",
@@ -7,12 +7,12 @@
     "php",
     "pushapi"
   ],
-  "homepage": "https://github.com/itxiao6/getui",
+  "homepage": "https://github.com/wanecho/getui",
   "license": "MIT",
   "authors": [
     {
-      "name": "itxiao6@qq.com",
-      "homepage": "https://github.com/itxiao6/getui"
+      "name": "wanecho",
+      "homepage": "https://github.com/wanecho/getui"
     }
   ],
   "autoload": {
